@@ -1,0 +1,9 @@
+SSHKeyChain
+===========
+
+SSHKeyChain is a GUI for OSX to manage SSH Tunnels and Keys.
+
+Build
+=====
+
+In order to build this project you will need the MacOSX10.4u.sdk installed.  I was able to accomplish this with XCode4 using the following response on Stack Overflow: http://stackoverflow.com/questions/5333490/how-can-we-restore-ppc-ppc64-as-well-as-full-10-4-10-5-sdk-support-to-xcode-4/5333500#5333500

@@ -3,6 +3,6 @@
 <plist version="1.0">
 <dict>
 	<key>RemoteVersionURL</key>
-	<string>http://www.sshkeychain.org/latestversion.xml</string>
+	<string>http://sshkeychain.sourceforge.net/latestversion.xml</string>
 </dict>
 </plist>
